@@ -8,10 +8,9 @@
 	</listeners>
 
 	<test name="iLABWebsite Test">
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.iLABWebsite.testCase.TC_TesterApplicationTest_001" />
 		</classes>
 	</test>
-
 </suite>

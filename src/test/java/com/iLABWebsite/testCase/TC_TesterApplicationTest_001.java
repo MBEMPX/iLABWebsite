@@ -80,19 +80,20 @@ public class TC_TesterApplicationTest_001 extends BaseClass {
 	{
 		String path = System.getProperty("user.dir") + "/src/test/java/com/iLABWebsite/testData/Applicant.xlsx";
 		int rownum = XLUtils.getRowCount(path, "Sheet1");
-		int colcount = XLUtils.getCellCount(path, "Sheet1", 1);
+		int colcount = XLUtils.getCellCount(path, "Sheet1", 0);
 		
 		String Applicant[][] = new String[rownum][colcount];
 		
-		for(int i= 1; i<rownum; i++)
-		{
-			for(int j =0; j< colcount; j++)
-			{
-				Applicant[i-1][j] = XLUtils.getCellData(path, "Sheet1", i, j);
-			}
-		}
-	
-		logger.info("Application test case FAILED " + Applicant);
+		
+		  for(int i= 1; i<=rownum; i++) 
+		  { 
+			  for(int j =0; j< colcount; j++)
+			  {
+				  Applicant[i-1][j] = XLUtils.getCellData(path, "Sheet1", i, j);
+			  } 
+		  }
+		 
+		
 		return Applicant;
 	}
 	

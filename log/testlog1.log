@@ -239,3 +239,59 @@
 2019-11-28 01:24:25,670 [main] INFO iLABWebsite - User enters phone number
 2019-11-28 01:24:32,291 [main] INFO iLABWebsite - User submit the application
 2019-11-28 01:24:34,770 [main] INFO iLABWebsite - Application test case PASSED
+2019-11-28 01:50:36,484 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@2cc44ad
+2019-11-28 01:50:39,493 [main] INFO iLABWebsite - URL has been entered successfully
+2019-11-28 01:50:42,515 [main] INFO iLABWebsite - User clicks on Careers link
+2019-11-28 01:50:51,206 [main] INFO iLABWebsite - User choose open positions in South Africa
+2019-11-28 01:50:56,838 [main] INFO iLABWebsite - User clicks on the first available vacancy
+2019-11-28 01:51:06,922 [main] INFO iLABWebsite - User clicks on apply now button
+2019-11-28 01:51:10,179 [main] INFO iLABWebsite - User enters his/her name
+2019-11-28 01:51:13,233 [main] INFO iLABWebsite - User capture email addrees
+2019-11-28 01:51:16,256 [main] INFO iLABWebsite - User enters phone number
+2019-11-28 01:51:22,799 [main] INFO iLABWebsite - User submit the application
+2019-11-28 01:51:25,368 [main] INFO iLABWebsite - Application test case PASSED
+2019-11-28 02:02:28,393 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@37ddb69a
+2019-11-28 02:02:31,404 [main] INFO iLABWebsite - URL has been entered successfully
+2019-11-28 02:02:34,424 [main] INFO iLABWebsite - User clicks on Careers link
+2019-11-28 02:02:42,798 [main] INFO iLABWebsite - User choose open positions in South Africa
+2019-11-28 02:02:47,938 [main] INFO iLABWebsite - User clicks on the first available vacancy
+2019-11-28 02:02:57,330 [main] INFO iLABWebsite - User clicks on apply now button
+2019-11-28 02:03:00,578 [main] INFO iLABWebsite - User enters his/her name
+2019-11-28 02:03:03,631 [main] INFO iLABWebsite - User capture email addrees
+2019-11-28 02:03:06,664 [main] INFO iLABWebsite - User enters phone number
+2019-11-28 02:03:13,232 [main] INFO iLABWebsite - User submit the application
+2019-11-28 02:03:16,209 [main] INFO iLABWebsite - Application test case PASSED
+2019-11-28 10:28:30,319 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@1477089c
+2019-11-28 10:28:33,330 [main] INFO iLABWebsite - URL has been entered successfully
+2019-11-28 10:28:36,378 [main] INFO iLABWebsite - User clicks on Careers link
+2019-11-28 10:28:45,507 [main] INFO iLABWebsite - User choose open positions in South Africa
+2019-11-28 10:28:50,983 [main] INFO iLABWebsite - User clicks on the first available vacancy
+2019-11-28 10:29:00,919 [main] INFO iLABWebsite - User clicks on apply now button
+2019-11-28 10:29:04,290 [main] INFO iLABWebsite - User enters his/her name
+2019-11-28 10:29:07,343 [main] INFO iLABWebsite - User capture email addrees
+2019-11-28 10:29:10,393 [main] INFO iLABWebsite - User enters phone number
+2019-11-28 10:29:17,024 [main] INFO iLABWebsite - User submit the application
+2019-11-28 10:29:20,390 [main] INFO iLABWebsite - Application test case PASSED
+2019-11-28 11:42:44,155 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@4372b9b6
+2019-11-28 11:42:47,166 [main] INFO iLABWebsite - URL has been entered successfully
+2019-11-28 11:42:50,200 [main] INFO iLABWebsite - User clicks on Careers link
+2019-11-28 11:42:58,455 [main] INFO iLABWebsite - User choose open positions in South Africa
+2019-11-28 11:43:03,354 [main] INFO iLABWebsite - User clicks on the first available vacancy
+2019-11-28 11:43:13,212 [main] INFO iLABWebsite - User clicks on apply now button
+2019-11-28 11:43:16,295 [main] INFO iLABWebsite - User enters his/her name
+2019-11-28 11:43:19,414 [main] INFO iLABWebsite - User capture email addrees
+2019-11-28 11:43:22,531 [main] INFO iLABWebsite - User enters phone number
+2019-11-28 11:43:29,293 [main] INFO iLABWebsite - User submit the application
+2019-11-28 11:43:32,058 [main] INFO iLABWebsite - Application test case PASSED
+2019-11-28 11:55:14,688 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@4372b9b6
+2019-11-28 11:58:10,075 [main] INFO iLABWebsite - Application test case FAILED [[Ljava.lang.String;@4372b9b6
+2019-11-28 12:28:57,246 [main] INFO iLABWebsite - URL has been entered successfully
+2019-11-28 12:29:00,283 [main] INFO iLABWebsite - User clicks on Careers link
+2019-11-28 12:29:08,905 [main] INFO iLABWebsite - User choose open positions in South Africa
+2019-11-28 12:29:15,864 [main] INFO iLABWebsite - User clicks on the first available vacancy
+2019-11-28 12:29:25,322 [main] INFO iLABWebsite - User clicks on apply now button
+2019-11-28 12:29:28,464 [main] INFO iLABWebsite - User enters his/her name
+2019-11-28 12:29:31,608 [main] INFO iLABWebsite - User capture email addrees
+2019-11-28 12:29:34,877 [main] INFO iLABWebsite - User enters phone number
+2019-11-28 12:29:41,542 [main] INFO iLABWebsite - User submit the application
+2019-11-28 12:29:44,265 [main] INFO iLABWebsite - Application test case PASSED
