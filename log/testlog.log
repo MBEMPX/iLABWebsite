@@ -295,3 +295,13 @@
 2019-11-28 12:29:34,877 - iLABWebsite -INFO - User enters phone number
 2019-11-28 12:29:41,542 - iLABWebsite -INFO - User submit the application
 2019-11-28 12:29:44,265 - iLABWebsite -INFO - Application test case PASSED
+2019-11-28 12:36:45,168 - iLABWebsite -INFO - URL has been entered successfully
+2019-11-28 12:36:48,214 - iLABWebsite -INFO - User clicks on Careers link
+2019-11-28 12:36:56,568 - iLABWebsite -INFO - User choose open positions in South Africa
+2019-11-28 12:37:01,860 - iLABWebsite -INFO - User clicks on the first available vacancy
+2019-11-28 12:37:11,473 - iLABWebsite -INFO - User clicks on apply now button
+2019-11-28 12:37:14,532 - iLABWebsite -INFO - User enters his/her name
+2019-11-28 12:37:17,677 - iLABWebsite -INFO - User capture email addrees
+2019-11-28 12:37:20,952 - iLABWebsite -INFO - User enters phone number
+2019-11-28 12:37:27,655 - iLABWebsite -INFO - User submit the application
+2019-11-28 12:37:30,501 - iLABWebsite -INFO - Application test case PASSED
